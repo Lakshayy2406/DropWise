@@ -51,5 +51,5 @@ The project was developed as a front-end web project to communicate environmenta
 
 ## 👨‍💻 Author
 
-**Lakshay Vaishnav**  
+**Lakshay Sharma**  
 GitHub: [@Lakshayy2406](https://github.com/Lakshayy2406)
